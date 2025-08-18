@@ -1,5 +1,12 @@
 ﻿WEBVTT
 
+STYLE
+::cue(.cyan){color: cyan}
+::cue(.yellow){color: yellow}
+::cue(.red){color: red}
+::cue(.magenta){color: magenta}
+::cue(.lime){color: lime}
+
 00:00:02.210 --> 00:00:05.672
 NGUYÊN TÁC: HYUUGA NATSU
 

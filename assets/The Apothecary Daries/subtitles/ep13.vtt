@@ -1,5 +1,12 @@
 ﻿WEBVTT
 
+STYLE
+::cue(.cyan){color: cyan}
+::cue(.yellow){color: yellow}
+::cue(.red){color: red}
+::cue(.magenta){color: magenta}
+::cue(.lime){color: lime}
+
 00:00:17.100 --> 00:00:18.059
 Bệ hạ nghiêm túc sao?
 
