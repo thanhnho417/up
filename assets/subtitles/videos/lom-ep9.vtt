@@ -1,13 +1,4 @@
 WEBVTT
-Branch: FPT
-Version: 1.0
-
-STYLE
-::cue(.cyan){color: cyan}
-::cue(.yellow){color: yellow}
-::cue(.red){color: red}
-::cue(.magenta){color: magenta}
-::cue(.lime){color: lime}
 
 1
 00:00:04.390 --> 00:00:06.086
